@@ -1,2 +1,2 @@
 # MobileAppProject
-Project for Mobile Apps
+Project for Mobile Apps Module
