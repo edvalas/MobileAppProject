@@ -19,4 +19,5 @@ I added German and French resource files to demonstrate localization in the app.
 ### References
 
 http://www.jayway.com/2015/01/09/shared-xaml-localization-universal-windows-apps/ - for connecting c-Sharp code to resource files.
+
 https://msdn.microsoft.com/en-us/library/windows/apps/mt219697.aspx - for reverse geocoding latitude and longitude into addresses
